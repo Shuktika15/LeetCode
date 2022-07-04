@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/maximum_subarray/Solution.java" afterDir="false" />
+    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="Solve path sum II">
+      <change afterPath="$PROJECT_DIR$/src/path_sum_ii/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656911625060</updated>
-      <workItem from="1656911628213" duration="5714000" />
+      <workItem from="1656911628213" duration="6362000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -182,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656917737089</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Solve maximum subarray">
+      <created>1656918010533</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656918010533</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Solve jump game">
+      <created>1656918168827</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1656918168827</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +225,9 @@
     <MESSAGE value="Solve get maximum in generated array" />
     <MESSAGE value="Solve Cells in a range on an excel sheet" />
     <MESSAGE value="Solve maximum subarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve maximum subarray" />
+    <MESSAGE value="Solve jump game" />
+    <MESSAGE value="Solve path sum II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve path sum II" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

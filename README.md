@@ -17,4 +17,5 @@
 | 11     | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)               | [Code](./src/min_cost_climbing_stairs/Solution.java)        | 
 | 12     | [Binary Search](https://leetcode.com/problems/binary-search/)                                     | [Code](./src/binary_search/Solution.java)                   | 
 | 13     | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                               | [Code](./src/fibonacci_number/Solution.java)                | 
+| 14     | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                   | [Code](./src/n_th_tribonacci_number/Solution.java)          | 
 

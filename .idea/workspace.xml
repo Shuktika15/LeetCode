@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/house_robber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/house_robber_iii/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656911625060</updated>
-      <workItem from="1656911628213" duration="6867000" />
+      <workItem from="1656911628213" duration="7138000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -210,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656918967769</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Solve house robber">
+      <created>1656919194064</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1656919194064</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Solve house robber II">
+      <created>1656919343029</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656919343029</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +255,9 @@
     <MESSAGE value="Solve jump game" />
     <MESSAGE value="Solve path sum II" />
     <MESSAGE value="Solve sum root to leaf numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve sum root to leaf numbers" />
+    <MESSAGE value="Solve house robber" />
+    <MESSAGE value="Solve house robber II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve house robber II" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

@@ -10,6 +10,7 @@
 | 4      | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Code](./src/sum_root_to_leaf_numbers/Solution.java) |
 | 5      | [House Robber](https://leetcode.com/problems/house-robber/)                         | [Code](./src/house_robber/Solution.java)             |
 | 6      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                   | [Code](./src/house_robber_ii/Solution.java)          |
+| 7      | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                 | [Code](./src/house_robber_iii/Solution.java)         |
 
 > Easy
 

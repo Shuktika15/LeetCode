@@ -12,4 +12,5 @@
 | 6      | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)                               | [Code](./src/pascals_triangle/Solution.java)                | 
 | 7      | [Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                         | [Code](./src/pascals_triangle_ii/Solution.java)             | 
 | 8      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Code](./src/best_time_to_buy_and_sell_stock/Solution.java) | 
+| 9      | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                     | [Code](./src/counting_bits/Solution.java)                   | 
 

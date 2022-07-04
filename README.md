@@ -2,15 +2,16 @@
 
 > Medium
 
-| Sl No. | Problem                                                                             | Code                                                 |
-|--------|-------------------------------------------------------------------------------------|------------------------------------------------------|
-| 1      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                 | [Code](./src/maximum_subarray/Solution.java)         |
-| 2      | [Jump Game](https://leetcode.com/problems/jump-game/)                               | [Code](./src/jump_game/Solution.java)                |
-| 3      | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                           | [Code](./src/path_sum_ii/Solution.java)              |
-| 4      | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Code](./src/sum_root_to_leaf_numbers/Solution.java) |
-| 5      | [House Robber](https://leetcode.com/problems/house-robber/)                         | [Code](./src/house_robber/Solution.java)             |
-| 6      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                   | [Code](./src/house_robber_ii/Solution.java)          |
-| 7      | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                 | [Code](./src/house_robber_iii/Solution.java)         |
+| Sl No. | Problem                                                                                                 | Code                                                           |
+|--------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| 1      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                     | [Code](./src/maximum_subarray/Solution.java)                   |
+| 2      | [Jump Game](https://leetcode.com/problems/jump-game/)                                                   | [Code](./src/jump_game/Solution.java)                          |
+| 3      | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                               | [Code](./src/path_sum_ii/Solution.java)                        |
+| 4      | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                     | [Code](./src/sum_root_to_leaf_numbers/Solution.java)           |
+| 5      | [House Robber](https://leetcode.com/problems/house-robber/)                                             | [Code](./src/house_robber/Solution.java)                       |
+| 6      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                       | [Code](./src/house_robber_ii/Solution.java)                    |
+| 7      | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                                     | [Code](./src/house_robber_iii/Solution.java)                   |
+| 8      | [Append k Integers with Minimum Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [Code](./src/append_k_integers_with_minimal_sum/Solution.java) |
 
 > Easy
 

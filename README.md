@@ -9,4 +9,5 @@
 | 3      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Code](./src/palindrome_number/Solution.java) |
 | 4      | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)     | [Code](./src/climbing_stairs/Solution.java)   |
 | 5      | [Path Sum](https://leetcode.com/problems/path-sum/)                   | [Code](./src/path_sum/Solution.java)          | 
+| 6      | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)   | [Code](./src/pascals_triangle/Solution.java)  | 
 

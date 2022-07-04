@@ -33,4 +33,5 @@
 | 14     | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                         | [Code](./src/n_th_tribonacci_number/Solution.java)             | 
 | 15     | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)         | [Code](./src/get_maximum_in_generated_array/Solution.java)     | 
 | 16     | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Code](./src/cells_in_a_range_on_an_excel_sheet/Solution.java) | 
+| 17     | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)                                   | [Code](./src/valid_parentheses/Solution.java)                  | 
 

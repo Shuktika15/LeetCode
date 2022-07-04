@@ -18,4 +18,5 @@
 | 12     | [Binary Search](https://leetcode.com/problems/binary-search/)                                     | [Code](./src/binary_search/Solution.java)                   | 
 | 13     | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                               | [Code](./src/fibonacci_number/Solution.java)                | 
 | 14     | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                   | [Code](./src/n_th_tribonacci_number/Solution.java)          | 
+| 15     | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)   | [Code](./src/get_maximum_in_generated_array/Solution.java)  | 
 

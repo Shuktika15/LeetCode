@@ -15,4 +15,5 @@
 | 9      | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                     | [Code](./src/counting_bits/Solution.java)                   | 
 | 10     | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                   | [Code](./src/is_subsequence/Solution.java)                  | 
 | 11     | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)               | [Code](./src/min_cost_climbing_stairs/Solution.java)        | 
+| 12     | [Binary Search](https://leetcode.com/problems/binary-search/)                                     | [Code](./src/binary_search/Solution.java)                   | 
 

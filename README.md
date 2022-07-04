@@ -5,6 +5,7 @@
 | Sl No. | Problem                                                             | Code                                         |
 |--------|---------------------------------------------------------------------|----------------------------------------------|
 | 1      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Code](./src/maximum_subarray/Solution.java) |
+| 2      | [Jump Game](https://leetcode.com/problems/jump-game/)               | [Code](./src/jump_game/Solution.java)        |
 
 > Easy
 

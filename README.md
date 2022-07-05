@@ -12,7 +12,7 @@
 | 6      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                       | [Code](./src/house_robber_ii/Solution.java)                    |
 | 7      | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                                     | [Code](./src/house_robber_iii/Solution.java)                   |
 | 8      | [Append k Integers with Minimum Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [Code](./src/append_k_integers_with_minimal_sum/Solution.java) |
-| 8      | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                   | [Code](./src/set_matrix_zeroes/Solution.java)                  |
+| 9      | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                     | [Code](./src/next_permutation/Solution.java)                   |
 
 > Easy
 

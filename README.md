@@ -16,6 +16,7 @@
 | 9      | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                     | [Code](./src/next_permutation/Solution.java)                   |
 | 10     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                               | [Code](./src/sort_colors/Solution.java)                        |
 | 11     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                             | [Code](./src/rotate_image/Solution.java)                       |
+| 12     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                        | [Code](./src/set_matrix_zeroes/Solution.java)                  |
 
 > Easy
 

@@ -1,5 +1,6 @@
 # LeetCode Solutions
 
+
 > Medium
 
 | Sl No. | Problem                                                                                                 | Code                                                           |
@@ -13,7 +14,8 @@
 | 7      | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                                     | [Code](./src/house_robber_iii/Solution.java)                   |
 | 8      | [Append k Integers with Minimum Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [Code](./src/append_k_integers_with_minimal_sum/Solution.java) |
 | 9      | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                     | [Code](./src/next_permutation/Solution.java)                   |
-| 10     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                          | [Code](./src/sort_colors/Solution.java)                        |
+| 10     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                               | [Code](./src/sort_colors/Solution.java)                        |
+| 11     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                             | [Code](./src/rotate_image/Solution.java)                       |
 
 > Easy
 

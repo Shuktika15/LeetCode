@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sort_colors/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rotate_image/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.sort_colors.Solution">
+  <component name="RunManager" selected="Application.rotate_image.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="roman_to_integer.Solution" />
       <module name="LeetCode" />
@@ -60,6 +61,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="next_permutation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rotate_image.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rotate_image.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rotate_image.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.rotate_image.Solution" />
         <item itemvalue="Application.sort_colors.Solution" />
         <item itemvalue="Application.next_permutation.Solution" />
         <item itemvalue="Application.set_matrix_zeroes.Solution" />
@@ -110,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656911625060</updated>
-      <workItem from="1656911628213" duration="20677000" />
+      <workItem from="1656911628213" duration="22346000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -301,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657026862219</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Solve sort colors">
+      <created>1657341013419</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1657341013419</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +334,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve palindrome number" />
     <MESSAGE value="Solve climbing stairs" />
     <MESSAGE value="Solve path sum" />
     <MESSAGE value="Solve Pascals triangle" />
@@ -337,7 +358,8 @@
     <MESSAGE value="Solve valid parentheses" />
     <MESSAGE value="Solve set matrix zeroes" />
     <MESSAGE value="Solve next permutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve next permutation" />
+    <MESSAGE value="Solve sort colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve sort colors" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -359,6 +381,11 @@
           <url>file://$PROJECT_DIR$/src/sort_colors/Solution.java</url>
           <line>8</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rotate_image/Solution.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

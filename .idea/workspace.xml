@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="" />
+    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/first_bad_version/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656911625060</updated>
-      <workItem from="1656911628213" duration="22645000" />
+      <workItem from="1656911628213" duration="24480000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -326,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657344323011</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Solve set matrix zeroes">
+      <created>1657344728268</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1657344728268</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,11 +369,11 @@
     <MESSAGE value="Solve house robber III" />
     <MESSAGE value="Solve k integrs with minimum sum" />
     <MESSAGE value="Solve valid parentheses" />
-    <MESSAGE value="Solve set matrix zeroes" />
     <MESSAGE value="Solve next permutation" />
     <MESSAGE value="Solve sort colors" />
     <MESSAGE value="Solve rotate image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve rotate image" />
+    <MESSAGE value="Solve set matrix zeroes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve set matrix zeroes" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

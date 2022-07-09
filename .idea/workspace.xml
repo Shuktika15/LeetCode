@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="Solve next permutation">
-      <change afterPath="$PROJECT_DIR$/src/next_permutation/Solution.java" afterDir="false" />
+    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sort_colors/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.next_permutation.Solution">
+  <component name="RunManager" selected="Application.sort_colors.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="roman_to_integer.Solution" />
       <module name="LeetCode" />
@@ -81,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sort_colors.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort_colors.Solution" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort_colors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sort_colors.Solution" />
         <item itemvalue="Application.next_permutation.Solution" />
         <item itemvalue="Application.set_matrix_zeroes.Solution" />
         <item itemvalue="Application.Solution" />
@@ -97,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656911625060</updated>
-      <workItem from="1656911628213" duration="18665000" />
+      <workItem from="1656911628213" duration="20677000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -281,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657000199323</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Solve next permutation">
+      <created>1657026862218</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1657026862219</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +354,11 @@
           <url>file://$PROJECT_DIR$/src/next_permutation/Solution.java</url>
           <line>7</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort_colors/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

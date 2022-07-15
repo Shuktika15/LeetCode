@@ -25,7 +25,7 @@ class TreeNode {
     }
 }
 
-class Solution {
+public class Solution {
     int count = 0;
 
     public List<List<Integer>> pathSum(TreeNode root, int targetSum, int sumSoFar, List<List<Integer>> lst, List<Integer> sublst) {

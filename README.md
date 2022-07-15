@@ -42,4 +42,5 @@
 | 17     | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)                                   | [Code](./src/valid_parentheses/Solution.java)                  | 
 | 18     | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                   | [Code](./src/first_bad_version/Solution.java)                  | 
 | 19     | [Plus One](https://leetcode.com/problems/plus-one/)                                                     | [Code](./src/plus_one/Solution.java)                           | 
+| 20     | [Sqrtx](https://leetcode.com/problems/sqrtx/)                                                           | [Code](./src/sqrtx/Solution.java)                              | 
 

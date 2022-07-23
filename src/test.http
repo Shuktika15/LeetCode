@@ -1,0 +1,18 @@
+### Get pensioner details by aadhar number
+GET http://localhost:8080/pensionDetailsByAadhar?aadharNumber=996914160256
+Accept: application/json
+
+{
+  "aadharNumber": 996914160256, // primary key
+  "name": "Shuktika Mahanty",
+  "dateOfBirth": "1998-02-15",
+  "pan": "BHKPC9432Q",
+  "salaryEarned": 1000000,
+  "allowance": 25000,
+  "pensionType": "self/family",
+  "bankDetails": {
+    "bankName": "HSBC",
+    "accountNumber": 100012315123512,
+    "bankType": "public/private"
+  }
+}

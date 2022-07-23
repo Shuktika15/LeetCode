@@ -44,4 +44,5 @@
 | 19     | [Plus One](https://leetcode.com/problems/plus-one/)                                                     | [Code](./src/plus_one/Solution.java)                           | 
 | 20     | [Sqrtx](https://leetcode.com/problems/sqrtx/)                                                           | [Code](./src/sqrtx/Solution.java)                              | 
 | 21     | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](./src/remove_duplicates_from_sorted_list/Solution.java) | 
+| 22     | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [Code](./src/reverse_linked_list/Solution.java)                | 
 

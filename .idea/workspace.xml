@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/reverse_linked_list/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/implement_trie_prefix_tree/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,8 @@
       <workItem from="1656911628213" duration="25108000" />
       <workItem from="1657870229420" duration="756000" />
       <workItem from="1657893432327" duration="2383000" />
-      <workItem from="1658034498824" duration="3862000" />
+      <workItem from="1658034498824" duration="5256000" />
+      <workItem from="1659110120141" duration="4516000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -376,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657896972455</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Solve reverse linked list">
+      <created>1658562458519</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1658562458519</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +393,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve is subsequence" />
     <MESSAGE value="Solve min cost climbing stairs" />
     <MESSAGE value="Solve binary search" />
     <MESSAGE value="Solve fibonacci number" />
@@ -412,7 +417,8 @@
     <MESSAGE value="Solve plus one" />
     <MESSAGE value="Solve sqrtx" />
     <MESSAGE value="Solve remove duplicates from sorted list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve remove duplicates from sorted list" />
+    <MESSAGE value="Solve reverse linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve reverse linked list" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

@@ -17,7 +17,8 @@
 | 10     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                               | [Code](./src/sort_colors/Solution.java)                        |
 | 11     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                             | [Code](./src/rotate_image/Solution.java)                       |
 | 12     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                   | [Code](./src/set_matrix_zeroes/Solution.java)                  |
-| 13     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                 | [Code](./src/max_area_of_island/Solution.java)                  |
+| 13     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                 | [Code](./src/max_area_of_island/Solution.java)                 |
+| 14     | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)                 | [Code](./src/implement_trie_prefix_tree/Trie.java)                     |
 
 > Easy
 

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/merge_intervals/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minimum_number_of_increments_on_subarrays_to_form_a_target_array/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +136,7 @@
       <workItem from="1662478341176" duration="4105000" />
       <workItem from="1663232294635" duration="1211000" />
       <workItem from="1663986579662" duration="2096000" />
-      <workItem from="1664430633986" duration="681000" />
+      <workItem from="1664430633986" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -398,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659115129889</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Solve merge intervals">
+      <created>1664431461573</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1664431461573</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +415,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve binary search" />
     <MESSAGE value="Solve fibonacci number" />
     <MESSAGE value="Solve n th tribonacci number" />
     <MESSAGE value="Solve get maximum in generated array" />
@@ -434,7 +439,8 @@
     <MESSAGE value="Solve remove duplicates from sorted list" />
     <MESSAGE value="Solve reverse linked list" />
     <MESSAGE value="Solve implement trie prefix tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve implement trie prefix tree" />
+    <MESSAGE value="Solve merge intervals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve merge intervals" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

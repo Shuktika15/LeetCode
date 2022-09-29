@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome_linked_list/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/minimum_number_of_increments_on_subarrays_to_form_a_target_array/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/minimum_number_of_increments_on_subarrays_to_form_a_target_array/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +137,7 @@
       <workItem from="1662478341176" duration="4105000" />
       <workItem from="1663232294635" duration="1211000" />
       <workItem from="1663986579662" duration="2096000" />
-      <workItem from="1664430633986" duration="1808000" />
+      <workItem from="1664430633986" duration="2949000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -414,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664431734587</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Solve populating next right pointers in each node">
+      <created>1664432528615</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1664432528615</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +430,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve n th tribonacci number" />
     <MESSAGE value="Solve get maximum in generated array" />
     <MESSAGE value="Solve Cells in a range on an excel sheet" />
     <MESSAGE value="Solve maximum subarray" />
@@ -450,7 +454,8 @@
     <MESSAGE value="Solve implement trie prefix tree" />
     <MESSAGE value="Solve merge intervals" />
     <MESSAGE value="Solve minimum number of increments on subarrays to form a target array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve minimum number of increments on subarrays to form a target array" />
+    <MESSAGE value="Solve populating next right pointers in each node" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve populating next right pointers in each node" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

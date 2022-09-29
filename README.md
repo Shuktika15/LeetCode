@@ -28,6 +28,7 @@
 | 14     | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)                                   | [Code](./src/implement_trie_prefix_tree/Trie.java)                      |
 | 15     | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                         | [Code](./src/merge_intervals/Solution.java)                             |
 | 16     | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Code](./src/populating_next_right_pointers_in_each_node/Solution.java) |
+| 17     | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                           | [Code](./src/palindrome_linked_list/Solution.java)                      |
 
 > Easy
 

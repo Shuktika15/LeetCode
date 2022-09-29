@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_list_cycle/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,16 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.HackerRank.Solution">
     <configuration name="HackerRank.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HackerRank.Solution" />
@@ -135,7 +139,7 @@
       <workItem from="1662478341176" duration="4105000" />
       <workItem from="1663232294635" duration="1211000" />
       <workItem from="1663986579662" duration="2096000" />
-      <workItem from="1664430633986" duration="4361000" />
+      <workItem from="1664430633986" duration="6813000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -438,7 +442,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664435012025</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Solve middle of the linked list">
+      <created>1664435417383</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1664435417383</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Solve merge sorted array">
+      <created>1664463473246</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1664463473247</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Update .gitignore">
+      <created>1664463710561</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1664463710561</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,9 +474,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve jump game" />
-    <MESSAGE value="Solve path sum II" />
-    <MESSAGE value="Solve sum root to leaf numbers" />
     <MESSAGE value="Solve house robber" />
     <MESSAGE value="Solve house robber II" />
     <MESSAGE value="Solve house robber III" />
@@ -474,7 +496,10 @@
     <MESSAGE value="Solve palindrome linked list" />
     <MESSAGE value="Make headings bold" />
     <MESSAGE value="Solve remove Nth node from end of linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve remove Nth node from end of linked list" />
+    <MESSAGE value="Solve middle of the linked list" />
+    <MESSAGE value="Solve merge sorted array" />
+    <MESSAGE value="Update .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .gitignore" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

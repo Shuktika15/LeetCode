@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/implement_trie_prefix_tree/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/merge_intervals/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +41,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.rotate_image.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="roman_to_integer.Solution" />
+  <component name="RunManager" selected="Application.HackerRank.Solution">
+    <configuration name="HackerRank.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank.Solution" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="roman_to_integer.*" />
+          <option name="PATTERN" value="HackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HackerRank.Solution" />
         <item itemvalue="Application.rotate_image.Solution" />
         <item itemvalue="Application.sort_colors.Solution" />
         <item itemvalue="Application.next_permutation.Solution" />
         <item itemvalue="Application.set_matrix_zeroes.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +129,15 @@
       <workItem from="1657870229420" duration="756000" />
       <workItem from="1657893432327" duration="2383000" />
       <workItem from="1658034498824" duration="5256000" />
-      <workItem from="1659110120141" duration="4516000" />
+      <workItem from="1659110120141" duration="6658000" />
+      <workItem from="1660575274063" duration="71000" />
+      <workItem from="1661491407038" duration="2400000" />
+      <workItem from="1662195528127" duration="615000" />
+      <workItem from="1662299978654" duration="13000" />
+      <workItem from="1662478341176" duration="4105000" />
+      <workItem from="1663232294635" duration="1211000" />
+      <workItem from="1663986579662" duration="2096000" />
+      <workItem from="1664430633986" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1656912652627</created>
@@ -382,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658562458519</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Solve implement trie prefix tree">
+      <created>1659115129889</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1659115129889</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +409,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve min cost climbing stairs" />
     <MESSAGE value="Solve binary search" />
     <MESSAGE value="Solve fibonacci number" />
     <MESSAGE value="Solve n th tribonacci number" />
@@ -418,7 +433,8 @@
     <MESSAGE value="Solve sqrtx" />
     <MESSAGE value="Solve remove duplicates from sorted list" />
     <MESSAGE value="Solve reverse linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve reverse linked list" />
+    <MESSAGE value="Solve implement trie prefix tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve implement trie prefix tree" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

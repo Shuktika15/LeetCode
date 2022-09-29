@@ -27,6 +27,7 @@
 | 15     | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                         | [Code](./src/merge_intervals/Solution.java)                             |
 | 16     | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Code](./src/populating_next_right_pointers_in_each_node/Solution.java) |
 | 17     | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                           | [Code](./src/palindrome_linked_list/Solution.java)                      |
+| 18     | [Remove Nth Node From End of Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                | [Code](./src/remove_nth_node_from_end_of_linked_list/Solution.java)     |
 
 > **Easy**
 

@@ -33,7 +33,6 @@ class Solution {
 
         ListNode l1 = head;
         ListNode l2 = headNew;
-        l2 = headNew;
         while (l2 != null) {
             if (l1.val != l2.val) {
                 return false;

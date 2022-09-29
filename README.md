@@ -1,14 +1,12 @@
 # LeetCode Solutions
 
-> Hard
+> **Hard**
 
 | Sl No. | Problem                                                                                                                                                             | Code                                                                                         |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | 1      | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Code](./src/minimum_number_of_increments_on_subarrays_to_form_a_target_array/Solution.java) |
 
-
-
-> Medium
+> **Medium**
 
 | Sl No. | Problem                                                                                                                   | Code                                                                    |
 |--------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -30,7 +28,7 @@
 | 16     | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Code](./src/populating_next_right_pointers_in_each_node/Solution.java) |
 | 17     | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                           | [Code](./src/palindrome_linked_list/Solution.java)                      |
 
-> Easy
+> **Easy**
 
 | Sl No. | Problem                                                                                                 | Code                                                           |
 |--------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|

@@ -8,26 +8,27 @@
 
 > **Medium**
 
-| Sl No. | Problem                                                                                                                   | Code                                                                    |
-|--------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 1      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                       | [Code](./src/maximum_subarray/Solution.java)                            |
-| 2      | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                     | [Code](./src/jump_game/Solution.java)                                   |
-| 3      | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                 | [Code](./src/path_sum_ii/Solution.java)                                 |
-| 4      | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                       | [Code](./src/sum_root_to_leaf_numbers/Solution.java)                    |
-| 5      | [House Robber](https://leetcode.com/problems/house-robber/)                                                               | [Code](./src/house_robber/Solution.java)                                |
-| 6      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                         | [Code](./src/house_robber_ii/Solution.java)                             |
-| 7      | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                                                       | [Code](./src/house_robber_iii/Solution.java)                            |
-| 8      | [Append k Integers with Minimum Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)                   | [Code](./src/append_k_integers_with_minimal_sum/Solution.java)          |
-| 9      | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                       | [Code](./src/next_permutation/Solution.java)                            |
-| 10     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                 | [Code](./src/sort_colors/Solution.java)                                 |
-| 11     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                               | [Code](./src/rotate_image/Solution.java)                                |
-| 12     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                     | [Code](./src/set_matrix_zeroes/Solution.java)                           |
-| 13     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                   | [Code](./src/max_area_of_island/Solution.java)                          |
-| 14     | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)                                   | [Code](./src/implement_trie_prefix_tree/Trie.java)                      |
-| 15     | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                         | [Code](./src/merge_intervals/Solution.java)                             |
+| Sl No. | Problem                                                                                                                   | Code                                                                   |
+|--------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| 1      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                       | [Code](./src/maximum_subarray/Solution.java)                           |
+| 2      | [Jump Game](https://leetcode.com/problems/jump-game/)                                                                     | [Code](./src/jump_game/Solution.java)                                  |
+| 3      | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)                                                                 | [Code](./src/path_sum_ii/Solution.java)                                |
+| 4      | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                       | [Code](./src/sum_root_to_leaf_numbers/Solution.java)                   |
+| 5      | [House Robber](https://leetcode.com/problems/house-robber/)                                                               | [Code](./src/house_robber/Solution.java)                               |
+| 6      | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                                         | [Code](./src/house_robber_ii/Solution.java)                            |
+| 7      | [House Robber III](https://leetcode.com/problems/house-robber-iii/)                                                       | [Code](./src/house_robber_iii/Solution.java)                           |
+| 8      | [Append k Integers with Minimum Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)                   | [Code](./src/append_k_integers_with_minimal_sum/Solution.java)         |
+| 9      | [Next Permutation](https://leetcode.com/problems/next-permutation/)                                                       | [Code](./src/next_permutation/Solution.java)                           |
+| 10     | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                 | [Code](./src/sort_colors/Solution.java)                                |
+| 11     | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                               | [Code](./src/rotate_image/Solution.java)                               |
+| 12     | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                     | [Code](./src/set_matrix_zeroes/Solution.java)                          |
+| 13     | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                   | [Code](./src/max_area_of_island/Solution.java)                         |
+| 14     | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)                                   | [Code](./src/implement_trie_prefix_tree/Trie.java)                     |
+| 15     | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                         | [Code](./src/merge_intervals/Solution.java)                            |
 | 16     | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Code](./src/populating_next_right_pointers_in_each_node/Solution.java) |
-| 17     | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                           | [Code](./src/palindrome_linked_list/Solution.java)                      |
-| 18     | [Remove Nth Node From End of Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                | [Code](./src/remove_nth_node_from_end_of_linked_list/Solution.java)     |
+| 17     | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                           | [Code](./src/palindrome_linked_list/Solution.java)                     |
+| 18     | [Remove Nth Node From End of Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                | [Code](./src/remove_nth_node_from_end_of_linked_list/Solution.java)    |
+| 19     | [Combination Sum](https://leetcode.com/problems/combination-sum/)                                                         | [Code](./src/combination_sum/Solution.java)                            |
 
 > **Easy**
 

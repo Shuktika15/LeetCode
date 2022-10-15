@@ -46,4 +46,42 @@ class Solution {
         combinationSum2(0, target, candidates, ans, new ArrayList<>());
         return ans;
     }
+
+    /*
+    s = a, b, c
+    0, 0, 0 -> 0
+    1, 1, 1 -> 7 = 2^n - 1
+    ans = []
+
+    str = 'a'
+    ans = ['', 'a']
+    i = 1
+    binary = [0, 0, 1].rev // bit wise operation to check if in a binary number a bit in a particular index is 1 or not
+    j = 0
+    digit = 1
+
+
+    for (i = 0 -> 2^n - 1)
+        binary = binary(i)
+        check which bits are 1 through a for loop
+        str = ''
+        for (j in binary.length) {
+            digit = binary[j] // digit (0/1) of index j
+            if (j == 1) str += s[j]
+        }
+        answer.add(str)
+
+    5 -> [1, 0, 1]
+     210
+     101 - 5
+    &001 2 ^ 0
+    ----
+    001 = 1 != 0, at j = 0, bit is set
+    1 = 2^0, 10 = 2^1, 100 = 2^2
+    for (j = 0 -> 2)
+        1 << j = 2^j
+        i & (1 << j) != 0 str += string[j]
+
+
+     */
 }

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="Solve combination sum ii">
-      <change afterPath="$PROJECT_DIR$/src/subsets_II/Solution.java" afterDir="false" />
+    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/permutation_sequence/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/combination_sum_ii/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/combination_sum_ii/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,14 +145,7 @@
       <workItem from="1665502209072" duration="740000" />
       <workItem from="1665684568981" duration="929000" />
       <workItem from="1665719956034" duration="2233000" />
-      <workItem from="1665728119745" duration="15473000" />
-    </task>
-    <task id="LOCAL-00002" summary="Solve two sum">
-      <created>1656914455293</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1656914455293</updated>
+      <workItem from="1665728119745" duration="16714000" />
     </task>
     <task id="LOCAL-00003" summary="Solve palindrome number">
       <created>1656914682800</created>
@@ -491,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665729480863</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Solve subsets ii">
+      <created>1665838029000</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1665838029005</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve valid parentheses" />
     <MESSAGE value="Solve next permutation" />
     <MESSAGE value="Solve sort colors" />
     <MESSAGE value="Solve rotate image" />
@@ -527,7 +525,8 @@
     <MESSAGE value="Solve merge subintervals" />
     <MESSAGE value="Solve combination sum" />
     <MESSAGE value="Solve combination sum ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve combination sum ii" />
+    <MESSAGE value="Solve subsets ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve subsets ii" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

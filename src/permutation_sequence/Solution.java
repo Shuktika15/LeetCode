@@ -1,5 +1,8 @@
 package permutation_sequence;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     private int fact(int n) {
         if (n == 0 || n == 1) return 1;
@@ -11,8 +14,6 @@ class Solution {
 
         return f;
     }
-
-
     public String getPermutation(int n, int k) {
         StringBuilder str = new StringBuilder();
         List<Integer> lst = new ArrayList<>();
@@ -26,7 +27,7 @@ class Solution {
 
         while(n > 0) {
             int index = k / f;
-            str.append(String.valueOf(lst.get(index)));
+            str.append(lst.get(index));
             int ignore = lst.remove(index);
             k %= f;
             f  = n == 1 ? 1 : f / (n - 1);

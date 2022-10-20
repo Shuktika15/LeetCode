@@ -5,6 +5,7 @@
 | Sl No. | Problem                                                                                                                                                             | Code                                                                                         |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | 1      | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Code](./src/minimum_number_of_increments_on_subarrays_to_form_a_target_array/Solution.java) |
+| 2      | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)                                                                                         | [Code](./src/permutation_sequence/Solution.java)                                             |
 
 > **Medium**
 

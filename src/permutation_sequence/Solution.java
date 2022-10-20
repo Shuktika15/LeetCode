@@ -14,6 +14,8 @@ class Solution {
 
         return f;
     }
+
+
     public String getPermutation(int n, int k) {
         StringBuilder str = new StringBuilder();
         List<Integer> lst = new ArrayList<>();

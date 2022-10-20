@@ -37,32 +37,34 @@
 
 > **Easy**
 
-| Sl No. | Problem                                                                                                 | Code                                                           |
-|--------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| 1      | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                                      | [Code](./src/roman_to_integer/Solution.java)                   |
-| 2      | [Two Sum](https://leetcode.com/problems/two-sum)                                                        | [Code](./src/two_sum/Solution.java)                            |
-| 3      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                   | [Code](./src/palindrome_number/Solution.java)                  |
-| 4      | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                       | [Code](./src/climbing_stairs/Solution.java)                    |
-| 5      | [Path Sum](https://leetcode.com/problems/path-sum/)                                                     | [Code](./src/path_sum/Solution.java)                           | 
-| 6      | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)                                     | [Code](./src/pascals_triangle/Solution.java)                   | 
-| 7      | [Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                               | [Code](./src/pascals_triangle_ii/Solution.java)                | 
-| 8      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)       | [Code](./src/best_time_to_buy_and_sell_stock/Solution.java)    | 
-| 9      | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                           | [Code](./src/counting_bits/Solution.java)                      | 
-| 10     | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                         | [Code](./src/is_subsequence/Solution.java)                     | 
-| 11     | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                     | [Code](./src/min_cost_climbing_stairs/Solution.java)           | 
-| 12     | [Binary Search](https://leetcode.com/problems/binary-search/)                                           | [Code](./src/binary_search/Solution.java)                      | 
-| 13     | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                     | [Code](./src/fibonacci_number/Solution.java)                   | 
-| 14     | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                         | [Code](./src/n_th_tribonacci_number/Solution.java)             | 
-| 15     | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)         | [Code](./src/get_maximum_in_generated_array/Solution.java)     | 
-| 16     | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Code](./src/cells_in_a_range_on_an_excel_sheet/Solution.java) | 
-| 17     | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)                                   | [Code](./src/valid_parentheses/Solution.java)                  | 
-| 18     | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                   | [Code](./src/first_bad_version/Solution.java)                  | 
-| 19     | [Plus One](https://leetcode.com/problems/plus-one/)                                                     | [Code](./src/plus_one/Solution.java)                           | 
-| 20     | [Sqrtx](https://leetcode.com/problems/sqrtx/)                                                           | [Code](./src/sqrtx/Solution.java)                              | 
-| 21     | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](./src/remove_duplicates_from_sorted_list/Solution.java) | 
-| 22     | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [Code](./src/reverse_linked_list/Solution.java)                | 
-| 23     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                   | [Code](./src/middle_of_the_linked_list/Solution.java)          | 
-| 24     | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                 | [Code](./src/merge_sorted_array/Solution.java)                 | 
-| 25     | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                   | [Code](./src/linked_list_cycle/Solution.java)                  | 
-| 26     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                           | [Code](./src/longest_common_prefix/Solution.java)                  | 
+| Sl No. | Problem                                                                                                   | Code                                                            |
+|--------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| 1      | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                                        | [Code](./src/roman_to_integer/Solution.java)                    |
+| 2      | [Two Sum](https://leetcode.com/problems/two-sum)                                                          | [Code](./src/two_sum/Solution.java)                             |
+| 3      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                     | [Code](./src/palindrome_number/Solution.java)                   |
+| 4      | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         | [Code](./src/climbing_stairs/Solution.java)                     |
+| 5      | [Path Sum](https://leetcode.com/problems/path-sum/)                                                       | [Code](./src/path_sum/Solution.java)                            | 
+| 6      | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)                                       | [Code](./src/pascals_triangle/Solution.java)                    | 
+| 7      | [Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                 | [Code](./src/pascals_triangle_ii/Solution.java)                 | 
+| 8      | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | [Code](./src/best_time_to_buy_and_sell_stock/Solution.java)     | 
+| 9      | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                             | [Code](./src/counting_bits/Solution.java)                       | 
+| 10     | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                           | [Code](./src/is_subsequence/Solution.java)                      | 
+| 11     | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                       | [Code](./src/min_cost_climbing_stairs/Solution.java)            | 
+| 12     | [Binary Search](https://leetcode.com/problems/binary-search/)                                             | [Code](./src/binary_search/Solution.java)                       | 
+| 13     | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                       | [Code](./src/fibonacci_number/Solution.java)                    | 
+| 14     | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                           | [Code](./src/n_th_tribonacci_number/Solution.java)              | 
+| 15     | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)           | [Code](./src/get_maximum_in_generated_array/Solution.java)      | 
+| 16     | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)   | [Code](./src/cells_in_a_range_on_an_excel_sheet/Solution.java)  | 
+| 17     | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)                                     | [Code](./src/valid_parentheses/Solution.java)                   | 
+| 18     | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                     | [Code](./src/first_bad_version/Solution.java)                   | 
+| 19     | [Plus One](https://leetcode.com/problems/plus-one/)                                                       | [Code](./src/plus_one/Solution.java)                            | 
+| 20     | [Sqrtx](https://leetcode.com/problems/sqrtx/)                                                             | [Code](./src/sqrtx/Solution.java)                               | 
+| 21     | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)   | [Code](./src/remove_duplicates_from_sorted_list/Solution.java)  | 
+| 22     | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                 | [Code](./src/reverse_linked_list/Solution.java)                 | 
+| 23     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                     | [Code](./src/middle_of_the_linked_list/Solution.java)           | 
+| 24     | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [Code](./src/merge_sorted_array/Solution.java)                  | 
+| 25     | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | [Code](./src/linked_list_cycle/Solution.java)                   | 
+| 26     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | [Code](./src/longest_common_prefix/Solution.java)               | 
+| 27     | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)             | [Code](./src/binary_tree_inorder_traversal/Solution.java)       | 
+| 27     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](./src/remove_duplicates_from_sorted_array/Solution.java) | 
 

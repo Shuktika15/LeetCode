@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
+    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="Solve binary tree inorder traversal">
+      <change afterPath="$PROJECT_DIR$/src/binary_tree_inorder_traversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remove_duplicates_from_sorted_array/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +49,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DareNotOpen\Java\LeetCode\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Solution">
     <configuration name="CobinationSumTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HackerRank.CobinationSumTesting" />
@@ -146,13 +159,7 @@
       <workItem from="1665728119745" duration="16714000" />
       <workItem from="1665845427443" duration="2482000" />
       <workItem from="1666111068949" duration="600000" />
-    </task>
-    <task id="LOCAL-00006" summary="Solve Pascals triangle">
-      <created>1656915487635</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1656915487635</updated>
+      <workItem from="1666284265986" duration="2029000" />
     </task>
     <task id="LOCAL-00007" summary="Solve Pascals triangle II">
       <created>1656915752612</created>
@@ -490,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665901632253</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Solve longest common prefix">
+      <created>1666284479670</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1666284479671</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,10 +513,19 @@
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve set matrix zeroes" />
-    <MESSAGE value="Solve first bad version" />
     <MESSAGE value="Solve max area of island" />
     <MESSAGE value="Solve plus one" />
     <MESSAGE value="Solve sqrtx" />
@@ -526,7 +549,9 @@
     <MESSAGE value="Solve permutation sequence" />
     <MESSAGE value="Solve palindrome partitioning" />
     <MESSAGE value="Solve maximum product subarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve maximum product subarray" />
+    <MESSAGE value="Solve longest common prefix" />
+    <MESSAGE value="Solve binary tree inorder traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve binary tree inorder traversal" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

@@ -63,5 +63,6 @@
 | 22     | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                               | [Code](./src/reverse_linked_list/Solution.java)                | 
 | 23     | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                   | [Code](./src/middle_of_the_linked_list/Solution.java)          | 
 | 24     | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                 | [Code](./src/merge_sorted_array/Solution.java)                 | 
-| 25     | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/)                       | [Code](./src/linked_list_cycle/Solution.java)                  | 
+| 25     | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                   | [Code](./src/linked_list_cycle/Solution.java)                  | 
+| 26     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                           | [Code](./src/longest_common_prefix/Solution.java)                  | 
 

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,14 +144,8 @@
       <workItem from="1665684568981" duration="929000" />
       <workItem from="1665719956034" duration="2233000" />
       <workItem from="1665728119745" duration="16714000" />
-      <workItem from="1665845427443" duration="1690000" />
-    </task>
-    <task id="LOCAL-00005" summary="Solve path sum">
-      <created>1656915268220</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1656915268220</updated>
+      <workItem from="1665845427443" duration="2482000" />
+      <workItem from="1666111068949" duration="600000" />
     </task>
     <task id="LOCAL-00006" summary="Solve Pascals triangle">
       <created>1656915487635</created>
@@ -489,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665900270621</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Solve maximum product subarray">
+      <created>1665901632248</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1665901632253</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve rotate image" />
     <MESSAGE value="Solve set matrix zeroes" />
     <MESSAGE value="Solve first bad version" />
     <MESSAGE value="Solve max area of island" />
@@ -525,7 +525,8 @@
     <MESSAGE value="Solve subsets ii" />
     <MESSAGE value="Solve permutation sequence" />
     <MESSAGE value="Solve palindrome partitioning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve palindrome partitioning" />
+    <MESSAGE value="Solve maximum product subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve maximum product subarray" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

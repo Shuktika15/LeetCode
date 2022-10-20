@@ -67,5 +67,6 @@
 | 25     | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     | [Code](./src/linked_list_cycle/Solution.java)                   | 
 | 26     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | [Code](./src/longest_common_prefix/Solution.java)               | 
 | 27     | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)             | [Code](./src/binary_tree_inorder_traversal/Solution.java)       | 
-| 27     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](./src/remove_duplicates_from_sorted_array/Solution.java) | 
+| 28     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](./src/remove_duplicates_from_sorted_array/Solution.java) | 
+| 29     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                       | [Code](./src/valid_palindrome/Solution.java)                    | 
 

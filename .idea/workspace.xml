@@ -156,14 +156,7 @@
       <workItem from="1665728119745" duration="16714000" />
       <workItem from="1665845427443" duration="2482000" />
       <workItem from="1666111068949" duration="600000" />
-      <workItem from="1666284265986" duration="2336000" />
-    </task>
-    <task id="LOCAL-00009" summary="Solve counting bits">
-      <created>1656916205682</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1656916205682</updated>
+      <workItem from="1666284265986" duration="3054000" />
     </task>
     <task id="LOCAL-00010" summary="Solve is subsequence">
       <created>1656916354610</created>
@@ -501,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666286478722</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Solve permutation sequence">
+      <created>1666286865724</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1666286865725</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,13 +542,13 @@
     <MESSAGE value="Solve combination sum" />
     <MESSAGE value="Solve combination sum ii" />
     <MESSAGE value="Solve subsets ii" />
-    <MESSAGE value="Solve permutation sequence" />
     <MESSAGE value="Solve palindrome partitioning" />
     <MESSAGE value="Solve maximum product subarray" />
     <MESSAGE value="Solve longest common prefix" />
     <MESSAGE value="Solve binary tree inorder traversal" />
     <MESSAGE value="Solve remove duplicates from sorted array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve remove duplicates from sorted array" />
+    <MESSAGE value="Solve permutation sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve permutation sequence" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

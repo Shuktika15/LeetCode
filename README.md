@@ -33,8 +33,9 @@
 | 20     | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                                   | [Code](./src/combination_sum_ii/Solution.java)                          |
 | 21     | [Subsets II](https://leetcode.com/problems/subsets-ii/)                                                                   | [Code](./src/subsets_II/Solution.java)                                  |
 | 22     | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)                                               | [Code](./src/permutation_sequence/Solution.java)                        |
-| 23     | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                         | [Code](./src/palindrome_partitioning/Solution.java)                        |
-| 24     | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                       | [Code](./src/maximum_product_subarray/Solution.java)                        |
+| 23     | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                         | [Code](./src/palindrome_partitioning/Solution.java)                     |
+| 24     | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                       | [Code](./src/maximum_product_subarray/Solution.java)                    |
+| 25     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                           | [Code](./src/group_anagrams/Solution.java)                              |
 
 > **Easy**
 

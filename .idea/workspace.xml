@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/search_insert_position/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add_two_numbers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,14 +159,7 @@
       <workItem from="1666111068949" duration="600000" />
       <workItem from="1666284265986" duration="3735000" />
       <workItem from="1666833777977" duration="1212000" />
-      <workItem from="1667099147043" duration="2434000" />
-    </task>
-    <task id="LOCAL-00014" summary="Solve n th tribonacci number">
-      <created>1656917354422</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1656917354422</updated>
+      <workItem from="1667099147043" duration="2761000" />
     </task>
     <task id="LOCAL-00015" summary="Solve get maximum in generated array">
       <created>1656917490273</created>
@@ -504,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667105352600</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Solve search insert position">
+      <created>1667105657261</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1667105657261</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve implement trie prefix tree" />
     <MESSAGE value="Solve merge intervals" />
     <MESSAGE value="Solve minimum number of increments on subarrays to form a target array" />
     <MESSAGE value="Solve populating next right pointers in each node" />
@@ -551,7 +550,8 @@
     <MESSAGE value="Solve merge two sorted lists" />
     <MESSAGE value="Solve group anagrams" />
     <MESSAGE value="Solve unique paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve unique paths" />
+    <MESSAGE value="Solve search insert position" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve search insert position" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

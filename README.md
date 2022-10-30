@@ -74,4 +74,5 @@
 | 29     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                       | [Code](./src/valid_palindrome/Solution.java)                    | 
 | 30     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [Code](./src/merge_two_sorted_lists/Solution.java)              | 
 | 31     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                           | [Code](./src/search_insert_position/Solution.java)              | 
+| 32     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                 | [Code](./src/length_of_last_word/Solution.java)                 | 
 

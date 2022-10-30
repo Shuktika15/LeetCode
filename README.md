@@ -77,4 +77,5 @@
 | 32     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                 | [Code](./src/length_of_last_word/Solution.java)                 | 
 | 33     | [Single Number](https://leetcode.com/problems/single-number/)                                             | [Code](./src/single_number/Solution.java)                       | 
 | 34     | [Majority Element](https://leetcode.com/problems/majority-element/)                                       | [Code](./src/majority_element/Solution.java)                    | 
+| 35     | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [Code](./src/symmetric_tree/Solution.java)                      | 
 

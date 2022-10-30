@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/single_number/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,14 +159,7 @@
       <workItem from="1666111068949" duration="600000" />
       <workItem from="1666284265986" duration="3735000" />
       <workItem from="1666833777977" duration="1212000" />
-      <workItem from="1667099147043" duration="3533000" />
-    </task>
-    <task id="LOCAL-00016" summary="Solve Cells in a range on an excel sheet">
-      <created>1656917737089</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1656917737089</updated>
+      <workItem from="1667099147043" duration="3850000" />
     </task>
     <task id="LOCAL-00017" summary="Solve maximum subarray">
       <created>1656918010533</created>
@@ -503,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667106031809</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Solve length of last word">
+      <created>1667107035747</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1667107035747</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,7 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve minimum number of increments on subarrays to form a target array" />
     <MESSAGE value="Solve populating next right pointers in each node" />
     <MESSAGE value="Solve palindrome linked list" />
     <MESSAGE value="Make headings bold" />
@@ -550,7 +550,8 @@
     <MESSAGE value="Solve unique paths" />
     <MESSAGE value="Solve search insert position" />
     <MESSAGE value="Solve add two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve add two numbers" />
+    <MESSAGE value="Solve length of last word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve length of last word" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

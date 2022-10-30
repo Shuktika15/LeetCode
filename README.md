@@ -72,4 +72,5 @@
 | 28     | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](./src/remove_duplicates_from_sorted_array/Solution.java) | 
 | 29     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                       | [Code](./src/valid_palindrome/Solution.java)                    | 
 | 30     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [Code](./src/merge_two_sorted_lists/Solution.java)              | 
+| 31     | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                           | [Code](./src/search_insert_position/Solution.java)              | 
 

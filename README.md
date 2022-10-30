@@ -78,4 +78,5 @@
 | 33     | [Single Number](https://leetcode.com/problems/single-number/)                                             | [Code](./src/single_number/Solution.java)                       | 
 | 34     | [Majority Element](https://leetcode.com/problems/majority-element/)                                       | [Code](./src/majority_element/Solution.java)                    | 
 | 35     | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [Code](./src/symmetric_tree/Solution.java)                      | 
+| 36     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   | [Code](./src/add_binary/Solution.java)                          | 
 

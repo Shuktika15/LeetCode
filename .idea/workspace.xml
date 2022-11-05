@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="Solve word search ii">
-      <change afterPath="$PROJECT_DIR$/src/longest_substring_without_repeating_characters/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="Solve 3sum">
+      <change afterPath="$PROJECT_DIR$/src/three_sum/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,14 +163,7 @@
       <workItem from="1667138716764" duration="2530000" />
       <workItem from="1667230286901" duration="640000" />
       <workItem from="1667315148626" duration="9000" />
-      <workItem from="1667666186613" duration="1474000" />
-    </task>
-    <task id="LOCAL-00021" summary="Solve house robber">
-      <created>1656919194064</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1656919194064</updated>
+      <workItem from="1667666186613" duration="1840000" />
     </task>
     <task id="LOCAL-00022" summary="Solve house robber II">
       <created>1656919343029</created>
@@ -509,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667667136638</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Solve longest substring without repeating characters">
+      <created>1667667708089</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1667667708089</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,8 +530,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve middle of the linked list" />
-    <MESSAGE value="Solve merge sorted array" />
     <MESSAGE value="Update .gitignore" />
     <MESSAGE value="Solve linked list cycle" />
     <MESSAGE value="Solve merge subintervals" />
@@ -556,7 +553,9 @@
     <MESSAGE value="Solve majority element" />
     <MESSAGE value="Solve symmetric tree" />
     <MESSAGE value="Solve word search ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve word search ii" />
+    <MESSAGE value="Solve longest substring without repeating characters" />
+    <MESSAGE value="Solve 3sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve 3sum" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

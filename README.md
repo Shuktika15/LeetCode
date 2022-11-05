@@ -42,6 +42,7 @@
 | 28     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                   | [Code](./src/longest_substring_without_repeating_characters/Solution.java)          |
 | 29     | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                       | [Code](./src/three_sum/Solution.java)                                               |
 | 30     | [Find Last and First Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Code](./src/find_last_and_first_position_of_element_in_sorted_array/Solution.java) |
+| 31     | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                             | [Code](./src/two_sum_ii_input_array_is_sorted/Solution.java)                        |
 
 > **Easy**
 

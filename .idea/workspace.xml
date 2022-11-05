@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/happy_number/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/two_sum_ii_input_array_is_sorted/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,21 +163,7 @@
       <workItem from="1667138716764" duration="2530000" />
       <workItem from="1667230286901" duration="640000" />
       <workItem from="1667315148626" duration="9000" />
-      <workItem from="1667666186613" duration="2912000" />
-    </task>
-    <task id="LOCAL-00025" summary="Solve valid parentheses">
-      <created>1656942711398</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1656942711398</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Solve set matrix zeroes">
-      <created>1657000199323</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1657000199323</updated>
+      <workItem from="1667666186613" duration="3321000" />
     </task>
     <task id="LOCAL-00027" summary="Solve next permutation">
       <created>1657026862218</created>
@@ -508,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667670735791</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Solve happy number">
+      <created>1667670847629</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1667670847629</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Solve intersection of two linked lists">
+      <created>1667671057687</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1667671057688</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,8 +530,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Solve merge subintervals" />
-    <MESSAGE value="Solve combination sum" />
     <MESSAGE value="Solve combination sum ii" />
     <MESSAGE value="Solve subsets ii" />
     <MESSAGE value="Solve palindrome partitioning" />
@@ -555,7 +553,9 @@
     <MESSAGE value="Solve 3sum" />
     <MESSAGE value="Solve find last and first position of element in sorted array" />
     <MESSAGE value="Solve reverse vowels of a string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve reverse vowels of a string" />
+    <MESSAGE value="Solve happy number" />
+    <MESSAGE value="Solve intersection of two linked lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve intersection of two linked lists" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

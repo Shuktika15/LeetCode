@@ -84,4 +84,5 @@
 | 35     | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                           | [Code](./src/symmetric_tree/Solution.java)                      | 
 | 36     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   | [Code](./src/add_binary/Solution.java)                          | 
 | 37     | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                   | [Code](./src/reverse_vowels_of_a_string/Solution.java)          | 
+| 38     | [Happy Number](https://leetcode.com/problems/happy-number/)                                               | [Code](./src/happy_number/Solution.java)                        | 
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b969bb3-d3f1-4700-9fa5-6a3eb86f66d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longest_substring_without_repeating_characters/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word_search_ii/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +161,10 @@
       <workItem from="1666284265986" duration="3735000" />
       <workItem from="1666833777977" duration="1212000" />
       <workItem from="1667099147043" duration="4827000" />
+      <workItem from="1667138716764" duration="2530000" />
+      <workItem from="1667230286901" duration="640000" />
+      <workItem from="1667315148626" duration="9000" />
+      <workItem from="1667666186613" duration="746000" />
     </task>
     <task id="LOCAL-00020" summary="Solve sum root to leaf numbers">
       <created>1656918967769</created>
